@@ -7,19 +7,72 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **React native**
 
 - 🤝 I’m looking for help with **a internship**
 
-- 💬 Ask me about **MERN stack,Springboot,Java**
+- 💬 Ask me about **MERN stack,Springboot,Java,REact native**
 
 - 📫 How to reach me **vinuka.oveen@gmail.com**
 
-- ⚡ Fun fact **I am also a musician i make lofi music**
+- ⚡ Fun fact **I am also a musician with over 20000 streams across over more than 100 countries                                                                                                                     <                    
+                      
+                      
+                      
+  a href="                    
+                      
+  (https://open.spotify.com/artist/0nSfMD8adshtNH1hZdd2Zm?si=0WaFty6XRFGX9OtmjZIv3g)" target="blank">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" height="30" width="40" /></a>
+<                    
+                      
+                      
+                      
+                      
+                      
+                      
+  a href="https://linkedin.com/in/https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/@its_just_ovin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@its_just_ovin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmm5kzivtk5rqagf-o9asdq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmm5kzivtk5rqagf-o9asdq" height="30" width="40" /></a>
 </p>
