@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vinuka Wijerathne</h1>
+                    
+                      
+                      
+                      
+                      
+  Hi 👋, I'm Vinuka Wijerathne</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinuka-wijerathne&label=Profile%20views&color=0e75b6&style=flat" alt="vinuka-wijerathne" /> </p>
@@ -15,13 +20,14 @@
 
 - 📫 How to reach me **vinuka.oveen@gmail.com**
 
-- ⚡ Fun fact **I am also a musician with over 20000 streams across over more than 100 countries                                                                                                                     <                    
+- ⚡ Fun fact **I am also a musician with over 20000 streams across over more than 100 countries                                                                                                                                   
                       
                       
                       
-  a href="                    
+                                         
+  
                       
-  (https://open.spotify.com/artist/0nSfMD8adshtNH1hZdd2Zm?si=0WaFty6XRFGX9OtmjZIv3g)" target="blank">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+  (https://open.spotify.com/artist/0nSfMD8adshtNH1hZdd2Zm?si=0WaFty6XRFGX9OtmjZIv3g)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
   
   
   
@@ -61,18 +67,12 @@
   
   
   
-  **
+  
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<                    
-                      
-                      
-                      
-                      
-                      
-                      
-  a href="https://linkedin.com/in/https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/@its_just_ovin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@its_just_ovin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmm5kzivtk5rqagf-o9asdq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmm5kzivtk5rqagf-o9asdq" height="30" width="40" /></a>
 </p>
