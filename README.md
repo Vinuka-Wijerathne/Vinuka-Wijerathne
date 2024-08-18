@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Laravel**
 - 🤝 I’m looking for help with **an internship**
 - 💬 Ask me about **MERN stack, Spring Boot, Java, React Native**
 - 📫 How to reach me **vinuka.oveen@gmail.com**
