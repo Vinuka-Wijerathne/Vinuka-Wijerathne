@@ -1,4 +1,114 @@
-<h1 align="center">Hi 👋, I'm Vinuka Ovin Wijerathne</h1>
+<                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  h1 align="center">Hi 👋, I'm Vinuka Ovin Wijerathne</h1>
 <h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <p align="left">
@@ -28,45 +138,15 @@
   <a href="https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinuka-wijerathne" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/ovin.creates?igsh=aTl1NmxlYmxqMnQ5"                    
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                                          
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                      
-                                                                                                                                                                                                                                                                                         
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_just_ovin" height="30" width="40" />
+  <a href="https://www.instagram.com/ovin.creates?igsh=aTl1NmxlYmxqMnQ5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ovin.creates" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/ucmm5kzivtk5rqagf-o9asdq" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vinuka-wijerathne" height="30" width="40" />
   </a>
-</p>
+</p>                                        
+  
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
