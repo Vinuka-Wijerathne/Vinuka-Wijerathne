@@ -28,7 +28,17 @@
   <a href="https://www.linkedin.com/in/vinuka-wijerathne-b797562b7/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinuka-wijerathne" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/@its_just_ovin" target="blank">
+  <a href="https://www.instagram.com/ovin.creates?igsh=aTl1NmxlYmxqMnQ5"                    
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+   target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_just_ovin" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/channel/ucmm5kzivtk5rqagf-o9asdq" target="blank">
