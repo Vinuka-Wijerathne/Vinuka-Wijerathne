@@ -24,9 +24,7 @@ Hi 👋, I'm Vinuka Ovin Wijerathne</h1>
   </a>
 </p>
 
-- 🌱 I’m currently learning *.NET*                                        
-  
-  **
+- 🌱 I’m currently learning *.NET***
 - 🤝 I’m looking for help with **an internship**
 - 💬 Ask me about **MERN stack, Spring Boot, Java, React Native**
 - 📫 How to reach me **vinuka.oveen@gmail.com**
