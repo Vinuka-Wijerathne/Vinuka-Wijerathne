@@ -25,10 +25,9 @@ Hi 👋, I'm Vinuka Ovin Wijerathne</h1>
 </p>
 
 - 🌱 I’m currently learning *.NET*
-- 🤝 I’m looking for help with **an internship**
 - 💬 Ask me about **MERN stack, Spring Boot, Java, React Native**
 - 📫 How to reach me **vinuka.oveen@gmail.com**
-- ⚡ Fun fact: **I am also a musician with over 20,000 streams across more than 100 countries**. Listen to my music on [Spotify](https://open.spotify.com/artist/0nSfMD8adshtNH1hZdd2Zm?si=0WaFty6XRFGX9OtmjZIv3g).
+- ⚡ Fun fact: **I am also a musician with over 30,000 streams across more than 100 countries**. Listen to my music on [Spotify](https://open.spotify.com/artist/0nSfMD8adshtNH1hZdd2Zm?si=0WaFty6XRFGX9OtmjZIv3g).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
